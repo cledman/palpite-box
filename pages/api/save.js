@@ -1,5 +1,4 @@
 import { GoogleSpreadsheet } from 'google-spreadsheet'
-import credentials from '../../credentials.json'
 import Moment from 'moment'
 
 const doc = new GoogleSpreadsheet(process.env.SHEET_DOC_ID)
