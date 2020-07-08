@@ -59,6 +59,8 @@ There´s an example from the enviroment variables available at ```.env.example``
 # Future Implementations
 
 We could add some photos from the restaurant and a forMail.
+
+Thanks to [Tulio Faria](https://github.com/tuliofaria) from [Devpleno](http://devpleno.com/).
 ##
 
 
