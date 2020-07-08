@@ -4,7 +4,7 @@
 
 # PalpiteBOX
 
-This project is part of the [Devpleno](http://devpleno.com/) course and consists of a website that the client can rate the restaurant and receive a coupom for it! We mainly use [React](reactjs.org), [Next.js](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/docs/installation). [Google Sheets](https://www.google.com/sheets/about/) were used to record the data from the form.
+This project is part of the [Devpleno](http://devpleno.com/) course and consists of a website that the client can rate the restaurant and receive a coupom for it! We mainly use [React](https://reactjs.org), [Next.js](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/docs/installation). [Google Sheets](https://www.google.com/sheets/about/) were used to record the data from the form.
 
 <br />
 <p align="center">
@@ -52,7 +52,7 @@ There´s an example from the enviroment variables available at ```.env.example``
 # :techs: Technologies
 
 * [NodeJS](https://nodejs.org/en/) to handle the server, 
-* [React](reactjs.org) and [Nexjs](https://nodejs.org/en/) to handle the rendering, 
+* [React](https://reactjs.org) and [Nexjs](https://nodejs.org/en/) to handle the rendering, 
 * [Tailwindcss](https://tailwindcss.com/) to handle styles and layout
 * [Google Sheets](https://www.google.com/sheets/about/) to record data
 
