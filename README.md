@@ -13,7 +13,7 @@ This project is part of the [Devpleno](http://devpleno.com/) course and consists
 
 ---
 
-# :guide: Guide
+# guide Guide
 
 * [Features](#features)
 * [Installation](#installation)
@@ -21,7 +21,7 @@ This project is part of the [Devpleno](http://devpleno.com/) course and consists
 * [Future Implementations](#future)
 
 
-# :features: Features
+# features Features
 
 *  Users can rate the restaurant and receive a coupon for it.
 *  Administrators could use an Google Sheet to record the data.
@@ -29,7 +29,7 @@ This project is part of the [Devpleno](http://devpleno.com/) course and consists
 
 
 
-# :installation: Installation
+# installation Installation
 
 **You will need install:**
 
@@ -49,14 +49,14 @@ There´s an example from the enviroment variables available at ```.env.example``
 
 ```npm run dev```
 
-# :techs: Technologies
+# techs Technologies
 
 * [NodeJS](https://nodejs.org/en/) to handle the server, 
 * [React](https://reactjs.org) and [Nexjs](https://nodejs.org/en/) to handle the rendering, 
 * [Tailwindcss](https://tailwindcss.com/) to handle styles and layout
 * [Google Sheets](https://www.google.com/sheets/about/) to record data
 
-# :future: Future Implementations
+# future Future Implementations
 
 We could add some photos from the restaurant and a forMail.
 ##
