@@ -1,0 +1,23 @@
+.h1Page{
+    @apply text-center font-bold my-4 text-2xl;
+}
+
+.input{
+    @apply p-4 block shadow bg-blue-100 my-2 rounded w-full;
+} 
+
+.label{
+    @apply font-bold;
+}
+
+.warningMessage{
+    @apply font-bold text-red-700 font-bold px-4 py-3 text-center;
+}
+
+.thanks{
+    @apply mb-6 text-center bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-3
+}
+
+.coupon{
+    @apply text-center p-4 mb-4 bg-yellow-500 border-dashed border-4 border-black;
+}

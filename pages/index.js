@@ -21,7 +21,9 @@ const Index = () =>{
                     <a className='bg-blue-400 px-12 py-4 font-bold rounded-lg shadow-lg hover:shadow'>Dar opinião ou sugestão</a>
                 </Link>
             </div>
+            <p className='mt-12 text-center'>
             { !data && <p>Carregando...</p>}
+            </p>
             { !err && data &&   data.showCoupon   &&       
                 <p className='mt-12 text-center'>
                     {data.message}
